@@ -1,2 +1,2 @@
-# utterances-comments
-Repository to store utterances comments
+# utterances-comments 
+Repository to store [utterances](https://utteranc.es) comments
